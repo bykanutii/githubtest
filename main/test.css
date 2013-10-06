@@ -1,0 +1,28 @@
+#all
+{
+   text-align: center;
+   width: 800px;
+   
+}
+#left
+{
+float: left;
+color: red;
+border: solid 1px red;
+width: 150px;
+overflow:hidden;
+}
+#center
+{
+   float: left;
+color: green;
+border: solid 1px green;
+width: 350px;
+}
+#right
+{
+   float: left;
+color: blue;
+border: solid 1px blue;
+width: 150px;
+}

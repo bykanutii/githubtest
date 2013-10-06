@@ -1,0 +1,85 @@
+
+	.demoHeaders {
+		margin-top: 2em;
+	}
+	#dialog-link {
+		padding: .4em 1em .4em 20px;
+		text-decoration: none;
+		position: relative;
+	}
+	#dialog-link span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	.icons {
+		margin: 0;
+		padding: 0;
+	}
+	.icons li {
+		margin: 2px;
+		position: relative;
+		padding: 0px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	.icons span.ui-icon {
+		float: left;
+		margin: 0 0;
+	}
+	.fakewindowcontain .ui-widget-overlay {
+		position: absolute;
+	}
+	.image_window1{
+	  width: 50px;
+	  height: 50px;
+	  margin: 15px 10px 0 0;
+	  position:relative;
+	  top: 0px;
+	  border: solid white 1px;
+	  
+	  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+      border-radius: 5px;
+      -moz-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.70);
+-webkit-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.70); 
+box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.70);
+text-shadow:0px 1px 0px rgba(0, 0, 0, 0.70);
+	}
+	
+	.fl_l{
+	float:left;
+	}
+	.fl_r{
+	float:right;
+	}
+	.position_block_window{
+	position:relative;
+	top: 100px;
+	display: none;
+	}
+
+	  
+	
+	#wind_mes1
+	{
+	  position:absolute;
+	  top: 0;
+	  display: none;
+	  
+	}
+	#wind_mes2
+	{
+	  position:absolute;
+	  top: 110px;
+	  display: none;
+	}
+	#wind_mes3
+	{
+	  position:absolute;
+	  top: 220px;
+	  display: none;
+	}

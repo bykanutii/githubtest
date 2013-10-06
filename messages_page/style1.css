@@ -1,0 +1,243 @@
+.align_image
+{
+   position:relative;
+   top:0px; 
+}
+.groupname
+{
+   margin: -30px 0px 0px 35px;
+}
+.date_publ
+{
+   margin: 0px 0px 0px 40px;
+   
+  
+}
+
+a:link.date_publ_news	
+{
+    color: gray;
+    
+}
+a:visited.date_publ_news	
+{
+    color: gray;
+    
+}
+a:hover.date_publ_news	
+{
+    color: gray;
+    text-decoration:underline;
+    
+}
+.wall_news_table 
+{
+   text-align: left;
+   line-height: 1.5em;
+   
+}
+.img_table_align
+{
+    position:relative;
+    right: -3px;
+}
+.wall_news_image
+{
+   padding: 0px 0px 0px 0px;
+}
+.image_news_group
+{
+  
+  margin-top: 0px;
+}
+.horisontal_wall_news
+{
+    border: none; /* Убираем границу */
+    background-color: #D9E0E7; /* Цвет линии */
+    color: #D9E0E7; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */
+}
+.each_new_footer_left
+{
+  text-align:left;
+    font-size:10px;
+    position:relative;
+    left:63px;
+}
+.each_new_footer_video
+{
+  text-align:left;
+    font-size:10px;
+    position:relative;
+    left:10px;
+    top:-10px;
+}
+.each_new_footer_right
+{
+  text-align:right;
+  margin-top: -17px;
+  margin-bottom:10px;
+  font-size:10px;
+}
+.image_like
+{
+   margin: 3px 0px 0px 0px;
+   position:relative;
+   right: 0px;
+   top:3px;
+}
+a:link.news_footer
+{
+    color:#517295;
+    
+}
+a:hover.news_footer
+{
+    color:#517295;
+    background-image:url(like.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    text-decoration:underline;
+    
+}
+a:visited.news_footer
+{
+    color:#517295;
+}
+
+a:link.news_footer_time_ago
+{
+    color:gray;
+}
+a:hover.news_footer_time_ago
+{
+    color:gray;
+    text-decoration:underline;
+}
+a:visited.news_footer_time_ago
+{
+    color:gray;
+}
+.news_margin
+{
+   position:relative;
+   margin-top:13px;
+   background-color: #D9E0E7;
+}
+.image_video
+{
+  position:relative;
+  top:-100px;
+}
+.video_name
+{
+  position:relative;
+  left:0px;
+  padding: 6px 0px;
+  
+}
+a:link.video_name
+{
+   font-weight: bold; 
+   position:relative;
+  left:-80px;
+}
+a:hover.video_name
+{
+    font-weight: bold;
+}
+a:visited.video_name
+{
+    font-weight: bold;
+}
+.wall_komments
+{
+   float:left;
+   position:relative;
+   right:-65px;
+ 
+   text-align:left;
+   font-size:11px;
+   line-height: 1.5em;
+   width:318px;
+   
+}
+.image_sender
+{
+   float: left;
+   width:30px;
+   padding-bottom:30px;
+}
+.left_part_comment
+{
+ 
+ width: 30px;
+ float: left;
+}
+.sender_name
+{
+   float: left;
+   position:relative;
+   left: 5px;
+   
+}
+.style_sender_name
+{
+   
+}
+.message_sender
+{
+   position:relative;
+   left: 5px;
+   
+}
+.date_comment_add_sender
+{
+text-align:left;
+    font-size:10px;
+    position:relative;
+    left:5px;
+    padding:0px 0px 7px 0px;
+}
+#link_right_info1
+{
+    float:right;
+    font-size:9.5px;
+    position:relative;
+    left:0px;
+    top:11px;
+    padding:0px 5px 0px 5px;
+
+}
+
+.all_width_comment
+{
+   width:318px;
+   position:relative;
+   top:-10px;
+   margin-bottom:-1px;
+   color:#D9E0E7;
+   background-color:#D9E0E7;
+}
+.like_komment_active
+{
+   float: right;
+    margin-top: -17px;
+  margin-bottom:10px;
+  font-size:10px;
+  font-weight: 700;
+  }
+  a:link.count_likes
+  {
+      font-weight: bold;
+  }
+    a:hover.count_likes
+  {
+      font-weight: bold;
+  }
+    a:visited.count_likes
+  {
+      font-weight: bold;
+  }
+ 
+  
